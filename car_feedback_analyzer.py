@@ -21,7 +21,7 @@ Get AI-powered sentiment analysis & issue detection for car rental feedback.
 **Made by Sahil Sureka** | Powered by IBM Watson NLU
 """
 )
-st.sidebar.markdown("🔗 [GitHub Repo](https://github.com/sahilsureka/customer_review_analyzer)")
+st.sidebar.markdown("🔗 [GitHub Repo](https://github.com/sahil-sureka06/car-review-analyzer)")
 
 # ───────────────────────────── Custom CSS ─────────────────────────────
 st.markdown(
